@@ -22,16 +22,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-- **chat-cli**  
-  A command-line-based decentralized chat application written purely in C
-  
-- **Simple-OS**  
-  A hobby operating system project exploring OS fundamentals
-
----
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AtesIsf&theme=gruvbox&hide_border=true&show_icons=true&bg_color=00000000" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtesIsf&layout=compact&theme=gruvbox&hide_border=true&bg_color=00000000" height="165"/>
