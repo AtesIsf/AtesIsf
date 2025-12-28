@@ -1,8 +1,8 @@
 # 🌃 Ateş İsfendiyaroğlu (@AtesIsf)
 
-> 💻 Computer Science & Economics Student @ Purdue University
+> Computer Science & Economics Student @ Purdue University
 
-> ⚙️ OS / Systems Programming / ML Enthusiast  
+> OS / Systems Programming / ML Enthusiast  
 
 📌 I like learning deeply, building from first principles, and understanding how things work under the hood.
 
@@ -19,16 +19,5 @@
 ![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AtesIsf&theme=gruvbox&hide_border=true&show_icons=true&bg_color=00000000" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtesIsf&layout=compact&theme=gruvbox&hide_border=true&bg_color=00000000" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AtesIsf&theme=gruvbox&hide_border=true&background=00000000"/>
-</p>
 
 ---
