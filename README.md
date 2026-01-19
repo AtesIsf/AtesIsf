@@ -1,6 +1,6 @@
 # 🌃 Ateş İsfendiyaroğlu (@AtesIsf)
 
-> Computer Science & Economics Student @ Purdue University
+> Honors Computer Science & Economics Student @ Purdue University
 
 > OS / Systems Programming / ML Enthusiast  
 
