@@ -1,6 +1,6 @@
 # 🌃 Ateş İsfendiyaroğlu (@AtesIsf)
 
-> Honors Computer Science & Economics Student @ Purdue University
+> BSc. Honors Computer Science, BSc. Economics, and Minor in Mathematics @ Purdue University
 
 > OS / Systems Programming / ML Enthusiast  
 
