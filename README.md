@@ -2,7 +2,7 @@
 
 > BSc. Honors Computer Science, BSc. Economics, and Minor in Mathematics @ Purdue University
 
-> OS / Systems Programming / ML Enthusiast  
+> OS / Systems Programming / AI Enthusiast  
 
 📌 I like learning deeply, building from first principles, and understanding how things work under the hood.
 
